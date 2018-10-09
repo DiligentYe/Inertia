@@ -1,7 +1,7 @@
 ### Inertia
 移动端页面元素拖动吸附功能
 
-[效果图](https://raw.githubusercontent.com/DiligentYe/Inertia/master/effectPic.gif)
+![效果图](https://raw.githubusercontent.com/DiligentYe/Inertia/master/effectPic.gif)
 
 #### 基本用法
 1. 在页面上引入inertia.js文件
