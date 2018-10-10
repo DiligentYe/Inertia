@@ -18,7 +18,7 @@ function Inertia(ele, options) {
   // 计算后的border
   this.computedBorder = {
     top: this.border.top,
-    bottom: this.clientHeight - this.border.bottom,
+    bottom: this.clientHeight - this.border.bottom - this.width,
     left: this.border.left,
     right: this.clientWidth - this.width - this.border.right ,
   }
